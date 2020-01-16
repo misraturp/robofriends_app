@@ -1,3 +1,5 @@
+App url: https://misraturp.github.io/robofriends_app/
+
 ## A website created for practice
 - react and redux
 
